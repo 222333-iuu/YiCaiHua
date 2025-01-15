@@ -1,0 +1,5 @@
+﻿  main.cpp
+  ych.cpp
+D:\文件\自写游戏\溢彩画\溢彩画\ych.cpp(4,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码...
+  溢彩画.vcxproj -> D:\文件\自写游戏\溢彩画\x64\Debug\溢彩画.exe
